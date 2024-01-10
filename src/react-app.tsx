@@ -566,7 +566,7 @@ function renderReactApp({
             <Logo css={{marginRight: '.5rem'}} strokeWidth={0.8} />
             <div css={{display: 'flex', flexDirection: 'column'}}>
               <h1 css={{fontSize: 16, margin: 0}}>{projectTitle}</h1>
-              <span css={{fontSize: 14, opacity: '.8'}}>Epic React</span>
+              <span css={{fontSize: 14, opacity: '.8'}}>Epic Classcraft</span>
             </div>
           </Link>
         </div>
