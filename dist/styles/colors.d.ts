@@ -1,0 +1,13 @@
+export declare const base = "white";
+export declare const text = "#434449";
+export declare const gray = "#f1f2f7";
+export declare const gray10 = "#f1f1f4";
+export declare const gray20 = "#e4e5e9";
+export declare const gray80 = "#6f7077";
+export declare const indigo = "#3f51b5";
+export declare const indigoDarken10 = "#364495";
+export declare const indigoLighten80 = "#b7c1f8";
+export declare const yellow = "#ffc107";
+export declare const green = "#4caf50";
+export declare const danger = "#ef5350";
+export declare const orange = "orange";
